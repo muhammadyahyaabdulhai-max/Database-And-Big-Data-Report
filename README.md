@@ -14,13 +14,6 @@ This project is a relational database system for an e-commerce platform built us
 - Transaction-based payment processing
 - Indexing for query optimization
 
-## Files
-- E-Commerce SQL Codes→ full SQL script
-- Project Report → project report
-- ER Diagram → ER diagram
--  → query outputs and implementation screenshots
--  → project demo video link
-
 ## Student
 Name: Muhammad Yahya
 Student ID: GH1043018
