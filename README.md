@@ -18,8 +18,8 @@ This project is a relational database system for an e-commerce platform built us
 - E-Commerce SQL Codes→ full SQL script
 - Project Report → project report
 - ER Diagram → ER diagram
-- `screenshots/` → query outputs and implementation screenshots
-- `video_link.txt` → project demo video link
+-  → query outputs and implementation screenshots
+-  → project demo video link
 
 ## Student
 Name: Muhammad Yahya
